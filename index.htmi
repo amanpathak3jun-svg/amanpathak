@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AMAN BOREWELL</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>AMAN BOREWELL</h1>
+    <p>Professional Borewell Drilling Services</p>
+</header>
+
+<section class="hero">
+    <h2>Welcome to Aman Borewell</h2>
+    <p>Reliable Borewell Drilling, Fast Service, Modern Machines</p>
+
+    <button>Call Now</button>
+</section>
+<section class="services"><section class="about">
+    <h2>About Aman Borewell</h2>
+
+    <p>
+        Aman Borewell is a trusted borewell drilling service in Sagar,
+        Madhya Pradesh. We provide professional borewell drilling,
+        tubewell installation, repair, and maintenance using modern
+        machines with quality service at affordable prices.
+    </p>
+</section>
+    <h2>Our Services</h2>
+
+    <div class="service-box">
+        <h3>Borewell Drilling</h3>
+        <p>Professional borewell drilling with modern machines.</p>
+    </div>
+
+    <div class="service-box">
+        <h3>Tubewell Installation</h3>
+        <p>Complete tubewell installation and setup.</p>
+    </div>
+
+    <div class="service-box">
+        <h3>Repair & Maintenance</h3>
+        <p>Quick repair and maintenance services.</p>
+    </div>
+</section>
+<script src="script.js"></script>
+<section class="contact"><section class="gallery">
+    <h2>Our Gallery</h2>
+<section class="why-us">
+    <h2>Why Choose Aman Borewell?</h2>
+
+    <div class="why-grid">
+
+        <div class="why-card">
+            <h3>⚡ Fast Service</h3>
+            <p>Quick response and timely project completion.</p>
+        </div>
+
+        <div class="why-card">
+            <h3>🔧 Modern Machines</h3>
+            <p>Latest drilling equipment for better results.</p>
+        </div>
+
+        <div class="why-card">
+            <h3>💧 Quality Work</h3>
+            <p>Reliable and professional borewell drilling services.</p>
+        </div>
+
+        <div class="why-card">
+            <h3>📞 24×7 Support</h3>
+            <p>We are available whenever you need us.</p>
+        </div>
+
+    </div>
+</section>
+    <div class="gallery-container">
+        <div class="gallery-item">Photo 1</div>
+        <div class="gallery-item">Photo 2</div>
+        <div class="gallery-item">Photo 3</div>
+        <div class="gallery-item">Photo 4</div>
+        <div class="gallery-item">Photo 5</div>
+        <div class="gallery-item">Photo 6</div>
+    </div>
+</section>
+    <h2>Contact Us</h2>
+
+    <p>📞 +91 6260654089</p>
+    <p>📍 Sagar, Madhya Pradesh</p>
+    <p>✉️ amanpathak3jun@gmail.com</p>
+
+    <a href="tel:+916062654089" class="btn">Call Now</a>
+    <a href="https://wa.me/916260654089" class="btn whatsapp">WhatsApp</a>
+</section>
+</body>
+</ht
